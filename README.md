@@ -23,3 +23,4 @@ g++ filename.cpp -o program_name
 
 # Run the executable
 ./program_name
+.
